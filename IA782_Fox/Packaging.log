@@ -1,0 +1,2217 @@
+2020-04-25 08:49:50 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fc28868ab10; archive(resolved)='<IDEArchive: 0x7fc28872f190>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fc28868ab10; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fc28864fce0; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc28866c190; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc28a85d730; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc2a4c28c70; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc2a75909c0; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc29de9fdd0; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc2a75a7f00; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc28876ed00; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc29de7a630; teamID='UH36P57T5F', teamName='rongyi lin', teamType='Individual', username='334230963@qq.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc2887f5a00; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='(null)'>
+	<IDEDistributionContext: 0x7fc29de9b220; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc2a073d300>', team='(null)'>
+	<IDEDistributionContext: 0x7fc28aa97830; archive = '<IDEArchive: 0x7fc28872f190>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fc28868ab10>
+2020-04-25 08:49:50 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-04-25 08:49:50 +0000  Processing step: IDEDistributionCopyItemStep
+2020-04-25 08:49:50 +0000  Running /usr/bin/ditto '-V' '/Users/tombp/Library/Developer/Xcode/Archives/2020-04-25/IA782 2020-4-25, 4.48 PM.xcarchive/Products/Applications/IA782.app' '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app'
+2020-04-25 08:49:50 +0000  >>> Copying /Users/tombp/Library/Developer/Xcode/Archives/2020-04-25/IA782 2020-4-25, 4.48 PM.xcarchive/Products/Applications/IA782.app 
+2020-04-25 08:49:50 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-04-25 08:49:50 +0000  11631 bytes for ./_CodeSignature/CodeResources
+2020-04-25 08:49:50 +0000  copying file ./400hz.wav ... 
+2020-04-25 08:49:50 +0000  44144 bytes for ./400hz.wav
+2020-04-25 08:49:50 +0000  copying file ./IA782 ... 
+2020-04-25 08:49:50 +0000  1266592 bytes for ./IA782
+copying file ./icon-29.png ... 
+2020-04-25 08:49:50 +0000  1076 bytes for ./icon-29.png
+copying file ./icon-76@2x.png ... 
+2020-04-25 08:49:50 +0000  5099 bytes for ./icon-76@2x.png
+2020-04-25 08:49:50 +0000  copying file ./icon-40@2x.png ... 
+2020-04-25 08:49:50 +0000  2742 bytes for ./icon-40@2x.png
+copying file ./icon-40@3x.png ... 
+2020-04-25 08:49:50 +0000  3995 bytes for ./icon-40@3x.png
+copying file ./icon-50@2x.png ... 
+2020-04-25 08:49:50 +0000  3401 bytes for ./icon-50@2x.png
+2020-04-25 08:49:50 +0000  copying file ./icon-83.5@2x.png ... 
+2020-04-25 08:49:50 +0000  5587 bytes for ./icon-83.5@2x.png
+copying file ./icon-60@3x.png ... 
+2020-04-25 08:49:50 +0000  6042 bytes for ./icon-60@3x.png
+copying file ./icon-29@2x.png ... 
+2020-04-25 08:49:50 +0000  1910 bytes for ./icon-29@2x.png
+2020-04-25 08:49:50 +0000  copying file ./AppIcon60x60@2x.png ... 
+2020-04-25 08:49:50 +0000  5209 bytes for ./AppIcon60x60@2x.png
+copying file ./icon-20-ipad.png ... 
+2020-04-25 08:49:50 +0000  1062 bytes for ./icon-20-ipad.png
+copying file ./icon-76.png ... 
+2020-04-25 08:49:50 +0000  2700 bytes for ./icon-76.png
+2020-04-25 08:49:50 +0000  copying file ./01_10hz.wav ... 
+2020-04-25 08:49:50 +0000  533716 bytes for ./01_10hz.wav
+2020-04-25 08:49:50 +0000  copying file ./icon 1024_1024.png ... 
+2020-04-25 08:49:50 +0000  55049 bytes for ./icon 1024_1024.png
+2020-04-25 08:49:50 +0000  copying file ./icon-72.png ... 
+2020-04-25 08:49:50 +0000  2479 bytes for ./icon-72.png
+2020-04-25 08:49:50 +0000  copying file ./Base.lproj/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib ... 
+2020-04-25 08:49:50 +0000  2449 bytes for ./Base.lproj/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib
+2020-04-25 08:49:50 +0000  copying file ./Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib ... 
+2020-04-25 08:49:50 +0000  7881 bytes for ./Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib
+2020-04-25 08:49:50 +0000  copying file ./Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib ... 
+2020-04-25 08:49:50 +0000  12079 bytes for ./Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib
+2020-04-25 08:49:50 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-04-25 08:49:50 +0000  264 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-04-25 08:49:50 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-04-25 08:49:50 +0000  1792 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2020-04-25 08:49:50 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-04-25 08:49:50 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2020-04-25 08:49:50 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-04-25 08:49:50 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-04-25 08:49:50 +0000  copying file ./icon-72@2x.png ... 
+2020-04-25 08:49:50 +0000  4817 bytes for ./icon-72@2x.png
+2020-04-25 08:49:50 +0000  copying file ./icon-29@3x.png ... 
+2020-04-25 08:49:50 +0000  2988 bytes for ./icon-29@3x.png
+copying file ./icon-60@2x.png ... 
+2020-04-25 08:49:50 +0000  3995 bytes for ./icon-60@2x.png
+copying file ./icon-29@2x-ipad.png ... 
+2020-04-25 08:49:50 +0000  1910 bytes for ./icon-29@2x-ipad.png
+2020-04-25 08:49:50 +0000  copying file ./icon-20@3x.png ... 
+2020-04-25 08:49:50 +0000  1979 bytes for ./icon-20@3x.png
+copying file ./icon-57.png ... 
+2020-04-25 08:49:50 +0000  1884 bytes for ./icon-57.png
+2020-04-25 08:49:50 +0000  copying file ./icon-20@2x-ipad.png ... 
+2020-04-25 08:49:50 +0000  1407 bytes for ./icon-20@2x-ipad.png
+2020-04-25 08:49:50 +0000  copying file ./Assets.car ... 
+2020-04-25 08:49:50 +0000  178760 bytes for ./Assets.car
+2020-04-25 08:49:50 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2020-04-25 08:49:50 +0000  6908 bytes for ./AppIcon76x76@2x~ipad.png
+2020-04-25 08:49:50 +0000  copying file ./icon-40.png ... 
+2020-04-25 08:49:50 +0000  1407 bytes for ./icon-40.png
+2020-04-25 08:49:50 +0000  copying file ./icon-50.png ... 
+2020-04-25 08:49:50 +0000  1769 bytes for ./icon-50.png
+2020-04-25 08:49:50 +0000  copying file ./icon-20@2x.png ... 
+2020-04-25 08:49:50 +0000  1407 bytes for ./icon-20@2x.png
+2020-04-25 08:49:50 +0000  copying file ./1.m4a ... 
+2020-04-25 08:49:50 +0000  22873 bytes for ./1.m4a
+2020-04-25 08:49:50 +0000  copying file ./sea.wav ... 
+2020-04-25 08:49:50 +0000  92672 bytes for ./sea.wav
+2020-04-25 08:49:50 +0000  copying file ./iphone.wav ... 
+2020-04-25 08:49:50 +0000  320044 bytes for ./iphone.wav
+2020-04-25 08:49:50 +0000  copying file ./opto_logo.png ... 
+2020-04-25 08:49:50 +0000  1062 bytes for ./opto_logo.png
+2020-04-25 08:49:50 +0000  copying file ./2.m4a ... 
+2020-04-25 08:49:50 +0000  20930 bytes for ./2.m4a
+2020-04-25 08:49:50 +0000  copying file ./embedded.mobileprovision ... 
+2020-04-25 08:49:50 +0000  11547 bytes for ./embedded.mobileprovision
+2020-04-25 08:49:50 +0000  copying file ./icon-57@2x.png ... 
+2020-04-25 08:49:50 +0000  3832 bytes for ./icon-57@2x.png
+2020-04-25 08:49:50 +0000  copying file ./icon-29-ipad.png ... 
+2020-04-25 08:49:50 +0000  1076 bytes for ./icon-29-ipad.png
+2020-04-25 08:49:50 +0000  copying file ./Info.plist ... 
+2020-04-25 08:49:50 +0000  1329 bytes for ./Info.plist
+2020-04-25 08:49:50 +0000  copying file ./knock.wav ... 
+2020-04-25 08:49:50 +0000  92672 bytes for ./knock.wav
+2020-04-25 08:49:50 +0000  copying file ./PkgInfo ... 
+2020-04-25 08:49:50 +0000  8 bytes for ./PkgInfo
+2020-04-25 08:49:50 +0000  /usr/bin/ditto exited with 0
+2020-04-25 08:49:50 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-04-25 08:49:50 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-04-25 08:49:50 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-04-25 08:49:50 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-04-25 08:49:50 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root' '--json' '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool-json-filepath-~~~vMhrvN' '--compile-bitcode' '--output' '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IDEIPAProcessor.AppThinning.~~~gojAXz' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms' '--app-store-tools-build-version' '10E1001'
+2020-04-25 08:49:50 +0000  ruby 2.3.7p456 (2018-03-28 revision 63024) [universal.x86_64-darwin18]
+2020-04-25 08:49:50 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:3164: warning: shadowing outer local variable - c
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:3170: warning: shadowing outer local variable - c
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:3173: warning: shadowing outer local variable - c
+2020-04-25 08:49:50 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:3163: warning: assigned but unused variable - prod
+2020-04-25 08:49:50 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2020-04-25 08:49:50 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2020-04-25 08:49:50 +0000  OS X 10.14.5 18F132
+2020-04-25 08:49:50 +0000  ENV: {"PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "MallocNanoZone"=>"0", "TMPDIR"=>"/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/", "LOGNAME"=>"tombp", "XPC_FLAGS"=>"0x0", "HOME"=>"/Users/tombp", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.7tfaWfK6Ba/Render", "USER"=>"tombp", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.zE6SrL9m3y/Listeners", "XPC_SERVICE_NAME"=>"com.apple.dt.Xcode.13312", "CA_ASSERT_MAIN_THREAD_TRANSACTIONS"=>"1", "SHELL"=>"/bin/bash", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x0:0x0", "CA_DEBUG_TRANSACTIONS"=>"1"}
+ARGV: ["/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root", "--json", "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool-json-filepath-~~~vMhrvN", "--compile-bitcode", "--output", "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IDEIPAProcessor.AppThinning.~~~gojAXz", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms", "--app-store-tools-build-version", "10E1001"]
+2020-04-25 08:49:50 +0000  ---
+IPA contents:
+2020-04-25 08:49:50 +0000  /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/01_10hz.wav
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/1.m4a
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/2.m4a
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/400hz.wav
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/AppIcon60x60@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/AppIcon76x76@2x~ipad.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Assets.car
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/Info.plist
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/IA782
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Info.plist
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/PkgInfo
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/_CodeSignature
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/_CodeSignature/CodeResources
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/embedded.mobileprovision
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon 1024_1024.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-20-ipad.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-20@2x-ipad.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-20@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-20@3x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-29-ipad.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-29.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/
+2020-04-25 08:49:50 +0000  XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-29@2x-ipad.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-29@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-29@3x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-40.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-40@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-40@3x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-50.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-50@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-57.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-57@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-60@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-60@3x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-72.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-72@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-76.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-76@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/icon-83.5@2x.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/iphone.wav
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/knock.wav
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/opto_logo.png
+/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/sea.wav
+---
+2020-04-25 08:49:50 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2020-04-25 08:49:50 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2020-04-25 08:49:50 +0000  warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2020-04-25 08:49:50 +0000  Scanning IPA...
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/01_10hz.wav
+2020-04-25 08:49:50 +0000      Command exited with pid 1844 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/01_10hz.wav
+    Stdout:
+        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, stereo 44100 Hz
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/1.m4a
+2020-04-25 08:49:50 +0000      Command exited with pid 1845 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/1.m4a
+    Stdout:
+        ISO Media, Apple iTunes ALAC/AAC-LC (.M4A) Audio
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/2.m4a
+2020-04-25 08:49:50 +0000      Command exited with pid 1846 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/2.m4a
+    Stdout:
+        ISO Media, Apple iTunes ALAC/AAC-LC (.M4A) Audio
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/400hz.wav
+2020-04-25 08:49:50 +0000      Command exited with pid 1847 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/400hz.wav
+    Stdout:
+        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 44100 Hz
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/AppIcon60x60@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1848 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/AppIcon60x60@2x.png
+    Stdout:
+        PNG image data (CgBI), 120 x 120, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/AppIcon76x76@2x\~ipad.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1849 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/AppIcon76x76@2x\~ipad.png
+    Stdout:
+        PNG image data (CgBI), 152 x 152, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Assets.car
+2020-04-25 08:49:50 +0000      Command exited with pid 1850 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Assets.car
+    Stdout:
+        Mac OS X bill of materials (BOM) file
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2020-04-25 08:49:50 +0000      Command exited with pid 1852 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+    Stdout:
+        data
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-04-25 08:49:50 +0000      Command exited with pid 1853 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+    Stdout:
+        Apple binary property list
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2020-04-25 08:49:50 +0000      Command exited with pid 1854 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+    Stdout:
+        data
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib
+2020-04-25 08:49:50 +0000      Command exited with pid 1856 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib
+    Stdout:
+        data
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib
+2020-04-25 08:49:50 +0000      Command exited with pid 1857 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib
+    Stdout:
+        data
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/Info.plist
+2020-04-25 08:49:50 +0000      Command exited with pid 1858 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/Info.plist
+    Stdout:
+        Apple binary property list
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib
+2020-04-25 08:49:50 +0000      Command exited with pid 1859 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Base.lproj/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib
+    Stdout:
+        data
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/IA782
+2020-04-25 08:49:50 +0000      Command exited with pid 1860 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/IA782
+    Stdout:
+        Mach-O 64-bit executable arm64
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -info /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/IA782
+2020-04-25 08:49:50 +0000      Command exited with pid 1861 exit 0:
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -info /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/IA782
+    Stdout:
+        Non-fat file: /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/IA782 is architecture: arm64
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool -h -v -m -arch all /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/IA782
+2020-04-25 08:49:50 +0000      Command exited with pid 1862 exit 0:
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool -h -v -m -arch all /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/IA782
+    Stdout:
+        Mach header
+              magic cputype cpusubtype  caps    filetype ncmds sizeofcmds      flags
+        MH_MAGIC_64   ARM64        ALL  0x00     EXECUTE    32       4280   NOUNDEFS DYLDLINK TWOLEVEL WEAK_DEFINES BINDS_TO_WEAK PIE
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool -l -v -m -arch arm64 /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/IA782
+2020-04-25 08:49:50 +0000      Command exited with pid 1864 exit 0:
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool -l -v -m -arch arm64 /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/IA782
+    Stdout:
+        /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/IA782:
+        Mach header
+              magic cputype cpusubtype  caps    filetype ncmds sizeofcmds      flags
+        MH_MAGIC_64   ARM64        ALL  0x00     EXECUTE    32       4280   NOUNDEFS DYLDLINK TWOLEVEL WEAK_DEFINES BINDS_TO_WEAK PIE
+        Load command 0
+              cmd LC_SEGMENT_64
+          cmdsize 72
+          segname __PAGEZERO
+           vmaddr 0x0000000000000000
+           vmsize 0x0000000100000000
+          fileoff 0
+         filesize 0
+          maxprot ---
+         initprot ---
+           nsects 0
+            flags (none)
+        Load command 1
+              cmd LC_SEGMENT_64
+          cmdsize 1032
+          segname __TEXT
+           vmaddr 0x0000000100000000
+           vmsize 0x000000000002c000
+          fileoff 0
+         filesize 180224
+          maxprot r-x
+         initprot r-x
+           nsects 12
+            flags (none)
+        Section
+          sectname __text
+           segname __TEXT
+              addr 0x0000000100005ea4
+              size 0x000000000001b924
+            offset 24228
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __stubs
+           segname __TEXT
+              addr 0x00000001000217c8
+              size 0x0000000000000924
+            offset 137160
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_SYMBOL_STUBS
+        attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+         reserved1 0 (index into indirect symbol table)
+         reserved2 12 (size of stubs)
+        Section
+          sectname __stub_helper
+           segname __TEXT
+              addr 0x00000001000220ec
+              size 0x000000000000090c
+            offset 139500
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __gcc_except_tab
+           segname __TEXT
+              addr 0x00000001000229f8
+              size 0x0000000000001248
+            offset 141816
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __const
+           segname __TEXT
+              addr 0x0000000100023c40
+              size 0x0000000000000110
+            offset 146496
+             align 2^4 (16)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __cstring
+           segname __TEXT
+              addr 0x0000000100023d50
+              size 0x0000000000001dee
+            offset 146768
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_CSTRING_LITERALS
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_methname
+           segname __TEXT
+              addr 0x0000000100025b3e
+              size 0x0000000000004537
+            offset 154430
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_CSTRING_LITERALS
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_classname
+           segname __TEXT
+              addr 0x000000010002a075
+              size 0x000000000000014e
+            offset 172149
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_CSTRING_LITERALS
+        at
+2020-04-25 08:49:50 +0000  tributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_methtype
+           segname __TEXT
+              addr 0x000000010002a1c3
+              size 0x0000000000001307
+            offset 172483
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_CSTRING_LITERALS
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __ustring
+           segname __TEXT
+              addr 0x000000010002b4ca
+              size 0x00000000000001ca
+            offset 177354
+             align 2^1 (2)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __unwind_info
+           segname __TEXT
+              addr 0x000000010002b694
+              size 0x000000000000092c
+            offset 177812
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __eh_frame
+           segname __TEXT
+              addr 0x000000010002bfc0
+              size 0x0000000000000034
+            offset 180160
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Load command 2
+              cmd LC_SEGMENT_64
+          cmdsize 1432
+          segname __DATA
+           vmaddr 0x000000010002c000
+           vmsize 0x000000000000c000
+          fileoff 180224
+         filesize 49152
+          maxprot rw-
+         initprot rw-
+           nsects 17
+            flags (none)
+        Section
+          sectname __got
+           segname __DATA
+              addr 0x000000010002c000
+              size 0x0000000000000170
+            offset 180224
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_NON_LAZY_SYMBOL_POINTERS
+        attributes (none)
+         reserved1 195 (index into indirect symbol table)
+         reserved2 0
+        Section
+          sectname __la_symbol_ptr
+           segname __DATA
+              addr 0x000000010002c170
+              size 0x0000000000000618
+            offset 180592
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_LAZY_SYMBOL_POINTERS
+        attributes (none)
+         reserved1 241 (index into indirect symbol table)
+         reserved2 0
+        Section
+          sectname __const
+           segname __DATA
+              addr 0x000000010002c790
+              size 0x0000000000000248
+            offset 182160
+             align 2^4 (16)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __cfstring
+           segname __DATA
+              addr 0x000000010002c9d8
+              size 0x0000000000001a60
+            offset 182744
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_classlist
+           segname __DATA
+              addr 0x000000010002e438
+              size 0x0000000000000078
+            offset 189496
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_catlist
+           segname __DATA
+              addr 0x000000010002e4b0
+              size 0x0000000000000010
+            offset 189616
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_protolist
+           segname __DATA
+              addr 0x000000010002e4c0
+              size 0x0000000000000018
+            offset 189632
+2020-04-25 08:49:50 +0000               align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_imageinfo
+           segname __DATA
+              addr 0x000000010002e4d8
+              size 0x0000000000000008
+            offset 189656
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_const
+           segname __DATA
+              addr 0x000000010002e4e0
+              size 0x00000000000063b0
+            offset 189664
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_selrefs
+           segname __DATA
+              addr 0x0000000100034890
+              size 0x0000000000000fd0
+            offset 215184
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_LITERAL_POINTERS
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_classrefs
+           segname __DATA
+              addr 0x0000000100035860
+              size 0x00000000000001a0
+            offset 219232
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_superrefs
+           segname __DATA
+              addr 0x0000000100035a00
+              size 0x0000000000000068
+            offset 219648
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_ivar
+           segname __DATA
+              addr 0x0000000100035a68
+              size 0x000000000000029c
+            offset 219752
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_data
+           segname __DATA
+              addr 0x0000000100035d08
+              size 0x00000000000004b0
+            offset 220424
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __data
+           segname __DATA
+              addr 0x00000001000361b8
+              size 0x0000000000000123
+            offset 221624
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __common
+           segname __DATA
+              addr 0x00000001000362e0
+              size 0x0000000000000028
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_ZEROFILL
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __bss
+           segname __DATA
+              addr 0x0000000100036308
+              size 0x0000000000000010
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_ZEROFILL
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Load command 3
+              cmd LC_SEGMENT_64
+          cmdsize 152
+          segname __LLVM
+           vmaddr 0x0000000100038000
+           vmsize 0x00000000000f0000
+          fileoff 229376
+         filesize 983040
+          maxprot rw-
+         initprot rw-
+           nsects 1
+            flags NORELOC
+        Section
+          sectname __bundle
+           segname __LLVM
+              addr 0x0000000100038000
+              size 0x00000000000ec73c
+            offset 229376
+     
+2020-04-25 08:49:50 +0000          align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Load command 4
+              cmd LC_SEGMENT_64
+          cmdsize 72
+          segname __LINKEDIT
+           vmaddr 0x0000000100128000
+           vmsize 0x0000000000010000
+          fileoff 1212416
+         filesize 54176
+          maxprot r--
+         initprot r--
+           nsects 0
+            flags (none)
+        Load command 5
+                    cmd LC_DYLD_INFO_ONLY
+                cmdsize 48
+             rebase_off 1212416
+            rebase_size 872
+               bind_off 1213288
+              bind_size 3952
+          weak_bind_off 1217240
+         weak_bind_size 120
+          lazy_bind_off 1217360
+         lazy_bind_size 5664
+             export_off 1223024
+            export_size 32
+        Load command 6
+             cmd LC_SYMTAB
+         cmdsize 24
+          symoff 1223944
+           nsyms 300
+          stroff 1230488
+         strsize 7392
+        Load command 7
+                    cmd LC_DYSYMTAB
+                cmdsize 80
+              ilocalsym 0
+              nlocalsym 1
+             iextdefsym 1
+             nextdefsym 1
+              iundefsym 2
+              nundefsym 298
+                 tocoff 0
+                   ntoc 0
+              modtaboff 0
+                nmodtab 0
+           extrefsymoff 0
+            nextrefsyms 0
+         indirectsymoff 1228744
+          nindirectsyms 436
+              extreloff 0
+                nextrel 0
+              locreloff 0
+                nlocrel 0
+        Load command 8
+                  cmd LC_LOAD_DYLINKER
+              cmdsize 32
+                 name /usr/lib/dyld (offset 12)
+        Load command 9
+             cmd LC_UUID
+         cmdsize 24
+            uuid 7290ACFC-6D82-32B1-BD57-5586D92A1EFC
+        Load command 10
+               cmd LC_BUILD_VERSION
+           cmdsize 32
+          platform ios
+               sdk 13.2
+             minos 12.0
+            ntools 1
+              tool ld
+           version 450.3
+        Load command 11
+              cmd LC_SOURCE_VERSION
+          cmdsize 16
+          version 0.0
+        Load command 12
+               cmd LC_MAIN
+           cmdsize 24
+          entryoff 135712
+         stacksize 0
+        Load command 13
+                  cmd LC_ENCRYPTION_INFO_64
+              cmdsize 24
+             cryptoff 16384
+            cryptsize 163840
+              cryptid 0
+                  pad 0
+        Load command 14
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+                 name /System/Library/Frameworks/MediaPlayer.framework/MediaPlayer (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 1.0.0
+        compatibility version 1.0.0
+        Load command 15
+                  cmd LC_LOAD_DYLIB
+              cmdsize 80
+                 name /System/Library/Frameworks/UIKit.framework/UIKit (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 61000.0.0
+        compatibility version 1.0.0
+        Load command 16
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+                 name /System/Library/Frameworks/CoreGraphics.framework/CoreGraphics (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 1348.12.1
+        compatibility version 64.0.0
+        Load command 17
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+                 name /System/Library/Frameworks/Foundation.framework/Foundation (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 1673.126.0
+        compatibility version 300.0.0
+        Load command 18
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+                 name /System/Library/Frameworks/AVFoundation.framework/AVFoundation (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 2.0.0
+        compatibility version 1.0.0
+        Load command 19
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+  
+2020-04-25 08:49:50 +0000                 name /System/Library/Frameworks/AudioToolbox.framework/AudioToolbox (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 1000.0.0
+        compatibility version 1.0.0
+        Load command 20
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+                 name /System/Library/Frameworks/CFNetwork.framework/CFNetwork (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 0.0.0
+        compatibility version 1.0.0
+        Load command 21
+                  cmd LC_LOAD_DYLIB
+              cmdsize 56
+                 name /usr/lib/libobjc.A.dylib (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 228.0.0
+        compatibility version 1.0.0
+        Load command 22
+                  cmd LC_LOAD_DYLIB
+              cmdsize 48
+                 name /usr/lib/libc++.1.dylib (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 800.7.0
+        compatibility version 1.0.0
+        Load command 23
+                  cmd LC_LOAD_DYLIB
+              cmdsize 56
+                 name /usr/lib/libSystem.B.dylib (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 1281.0.0
+        compatibility version 1.0.0
+        Load command 24
+                  cmd LC_LOAD_DYLIB
+              cmdsize 96
+                 name /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 1673.126.0
+        compatibility version 150.0.0
+        Load command 25
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+                 name /System/Library/Frameworks/CoreImage.framework/CoreImage (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 5.0.0
+        compatibility version 1.0.0
+        Load command 26
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+                 name /System/Library/Frameworks/CoreMedia.framework/CoreMedia (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 1.0.0
+        compatibility version 1.0.0
+        Load command 27
+                  cmd LC_LOAD_DYLIB
+              cmdsize 88
+                 name /System/Library/Frameworks/QuartzCore.framework/QuartzCore (offset 24)
+           time stamp 2 Thu Jan  1 08:00:02 1970
+              current version 1.11.0
+        compatibility version 1.2.0
+        Load command 28
+                  cmd LC_RPATH
+              cmdsize 40
+                 path @executable_path/Frameworks (offset 12)
+        Load command 29
+              cmd LC_FUNCTION_STARTS
+          cmdsize 16
+          dataoff 1223056
+         datasize 856
+        Load command 30
+              cmd LC_DATA_IN_CODE
+          cmdsize 16
+          dataoff 1223912
+         datasize 32
+        Load command 31
+              cmd LC_CODE_SIGNATURE
+          cmdsize 16
+          dataoff 1237888
+         datasize 28704
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Info.plist
+2020-04-25 08:49:50 +0000      Command exited with pid 1866 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/Info.plist
+    Stdout:
+        Apple binary property list
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/PkgInfo
+2020-04-25 08:49:50 +0000      Command exited with pid 1867 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/PkgInfo
+    Stdout:
+        ASCII text, with no line terminators
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/_CodeSignature/CodeResources
+2020-04-25 08:49:50 +0000      Command exited with pid 1868 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/_CodeSignature/CodeResources
+    Stdout:
+        XML 1.0 document text, ASCII text
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/embedded.mobileprovision
+2020-04-25 08:49:50 +0000      Command exited with pid 1869 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/embedded.mobileprovision
+    Stdout:
+        data
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon\ 1024_1024.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1870 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon\ 1024_1024.png
+    Stdout:
+        PNG image data (CgBI), 1024 x 1024, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-20-ipad.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1871 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-20-ipad.png
+    Stdout:
+        PNG image data, 20 x 20, 8-bit colormap, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-20@2x-ipad.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1872 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-20@2x-ipad.png
+    Stdout:
+        PNG image data (CgBI), 40 x 40, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-20@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1873 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-20@2x.png
+    Stdout:
+        PNG image data (CgBI), 40 x 40, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-20@3x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1874 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-20@3x.png
+    Stdout:
+        PNG image data (CgBI), 60 x 60, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29-ipad.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1875 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29-ipad.png
+    Stdout:
+        PNG image data (CgBI), 29 x 29, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1876 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29.png
+    Stdout:
+        PNG image data (CgBI), 29 x 29, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29@2x-ipad.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1877 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29@2x-ipad.png
+    Stdout:
+        PNG image data (CgBI), 58 x 58, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1878 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29@2x.png
+    Stdout:
+        PNG image data (CgBI), 58 x 58, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29@3x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1879 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-29@3x.png
+    Stdout:
+        PNG image data (CgBI), 87 x 87, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-40.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1880 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-40.png
+    Stdout:
+        PNG image data (CgBI), 40 x 40, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-40@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1881 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-40@2x.png
+    Stdout:
+        PNG image data (CgBI), 80 x 80, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-40@3x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1882 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-40@3x.png
+    Stdout:
+        PNG image data (CgBI), 120 x 120, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-50.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1883 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-50.png
+    Stdout:
+        PNG image data (CgBI), 50 x 50, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-50@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1884 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-50@2x.png
+    Stdout:
+        PNG image data (CgBI), 100 x 100, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-57.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1885 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-57.png
+    Stdout:
+        PNG image data (CgBI), 57 x 57, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-57@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1886 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-57@2x.png
+    Stdout:
+        PNG image data (CgBI), 114 x 114, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-60@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1887 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-60@2x.png
+    Stdout:
+        PNG image data (CgBI), 120 x 120, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-60@3x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1888 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-60@3x.png
+    Stdout:
+        PNG image data (CgBI), 180 x 180, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-72.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1889 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-72.png
+    Stdout:
+        PNG image data (CgBI), 72 x 72, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-72@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1890 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-72@2x.png
+    Stdout:
+        PNG image data (CgBI), 144 x 144, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-76.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1891 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-76.png
+    Stdout:
+        PNG image data (CgBI), 76 x 76, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-76@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1892 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-76@2x.png
+    Stdout:
+        PNG image data (CgBI), 152 x 152, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-83.5@2x.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1893 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/icon-83.5@2x.png
+    Stdout:
+        PNG image data (CgBI), 167 x 167, 8-bit/color RGBA, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/iphone.wav
+2020-04-25 08:49:50 +0000      Command exited with pid 1894 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/iphone.wav
+    Stdout:
+        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, stereo 11025 Hz
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/knock.wav
+2020-04-25 08:49:50 +0000      Command exited with pid 1895 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/knock.wav
+    Stdout:
+        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 44100 Hz
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/opto_logo.png
+2020-04-25 08:49:50 +0000      Command exited with pid 1896 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/opto_logo.png
+    Stdout:
+        PNG image data, 20 x 20, 8-bit colormap, non-interlaced
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/sea.wav
+2020-04-25 08:49:50 +0000      Command exited with pid 1897 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.\~\~\~FInxfY/Root/Payload/IA782.app/sea.wav
+    Stdout:
+        RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 44100 Hz
+    
+    Stderr:
+    
+2020-04-25 08:49:50 +0000  Complete LinkageGraph:
+    IA782.app/IA782 arm64 ->
+2020-04-25 08:49:50 +0000  Validating IPA structure...
+2020-04-25 08:49:51 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk -o /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782 --generate-dsym /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM --strip-swift-symbols /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-in/arm64/Payload/IA782.app/IA782
+2020-04-25 08:49:51 +0000  Compiling bitcode...
+  Compiling bitcode for arm64...
+    Compiling arm64 bitcode in 'IA782'
+2020-04-25 08:49:52 +0000      Command exited with pid 1916 exit 0:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk -o /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782 --generate-dsym /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM --strip-swift-symbols /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-in/arm64/Payload/IA782.app/IA782
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-in/arm64/Payload/IA782.app/IA782"
+        -= Output =-
+        Non-fat file: /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-in/arm64/Payload/IA782.app/IA782 is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-in/arm64/Payload/IA782.app/IA782"
+        -= Output =-
+        UUID: 7290ACFC-6D82-32B1-BD57-5586D92A1EFC (arm64) /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-in/arm64/Payload/IA782.app/IA782
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-in/arm64/Payload/IA782.app/IA782" "-extract" "__LLVM" "__bundle" "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IA782Ke7v6X/IA782.arm64.xar"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "01" "-o" "01.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "02" "-o" "02.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/D
+2020-04-25 08:49:52 +0000  eveloper/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "03" "-o" "03.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "04" "-o" "04.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "05" "-o" "05.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "06" "-o" "06.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "07" "-o" "07.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "08" "-o" "08.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "09" "-o" "09.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "10" "-o" "10.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "11" "-o" "11.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios12.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "12" "-o" "12.o"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/F
+2020-04-25 08:49:52 +0000  rameworks/MediaPlayer.framework/MediaPlayer.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/libobjc.A.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/libc++.1.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/temphKvz7t
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-execute" "-ios_version_min" "12.0.0" "-e" "_main" "-rpath" "@executable_path/Frameworks" "-executable_path" "/TOM/ia_git_server/OF853_App/SourceCode/Build/Intermediates.noindex/ArchiveIntermediates/IA782/InstallationBuildProductsLocation/Applications/IA782.app/IA782" "-dead_strip" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk" "-sdk_version" "13.2.0" "-filelist" "/private/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IA782Ke7v6X/IA782.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iP
+2020-04-25 08:49:52 +0000  honeOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/libc++.1.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IA782Ke7v6X/IA782.arm64.out"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-in/arm64/Payload/IA782.app/IA782
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782"
+        -= Output =-
+        UUID: 88BB4248-ED36-31D6-B1F1-C914C158E12D (arm64) /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782" "-o" "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripSymbols: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782"
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+    
+/Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app /var/folders/5z/l4t30sz
+2020-04-25 08:49:52 +0000  s1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782
+2020-04-25 08:49:52 +0000      Command exited with pid 1941 exit 0:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782
+    Stdout:
+        /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782 [arm64, 0.006901 seconds]:
+    
+    Stderr:
+    
+2020-04-25 08:49:52 +0000  /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782
+2020-04-25 08:49:52 +0000      Command exited with pid 1942 exit 0:
+    /usr/bin/file -b -- /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782
+    Stdout:
+        Mach-O 64-bit dSYM companion file arm64
+    
+    Stderr:
+    
+2020-04-25 08:49:52 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -info /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782
+2020-04-25 08:49:52 +0000      Command exited with pid 1943 exit 0:
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -info /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782
+    Stdout:
+        Non-fat file: /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782 is architecture: arm64
+    
+    Stderr:
+    
+2020-04-25 08:49:52 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool -h -v -m -arch all /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782
+2020-04-25 08:49:52 +0000      Command exited with pid 1944 exit 0:
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool -h -v -m -arch all /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782
+    Stdout:
+        Mach header
+              magic cputype cpusubtype  caps    filetype ncmds sizeofcmds      flags
+        MH_MAGIC_64   ARM64        ALL  0x00        DSYM     8       3632 0x00000000
+    
+    Stderr:
+    
+2020-04-25 08:49:52 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool -l -v -m -arch arm64 /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782
+2020-04-25 08:49:52 +0000      Command exited with pid 1946 exit 0:
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/otool -l -v -m -arch arm64 /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782
+    Stdout:
+        /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/ipatool20200425-1832-ghwr2e/thinned-out/arm64/Payload/IA782.app/IA782.dSYM/Contents/Resources/DWARF/IA782:
+        Mach header
+              magic cputype cpusubtype  caps    filetype ncmds sizeofcmds      flags
+        MH_MAGIC_64   ARM64        ALL  0x00        DSYM     8       3632 0x00000000
+        Load command 0
+             cmd LC_UUID
+         cmdsize 24
+            uuid 88BB4248-ED36-31D6-B1F1-C914C158E12D
+        Load command 1
+               cmd LC_BUILD_VERSION
+           cmdsize 24
+          platform ios
+               sdk 13.2
+             minos 12.0
+            ntools 0
+        Load command 2
+             cmd LC_SYMTAB
+         cmdsize 24
+          symoff 4096
+           nsyms 888
+          stroff 18304
+         strsize 12433
+        Load command 3
+              cmd LC_SEGMENT_64
+          cmdsize 72
+          segname __PAGEZERO
+           vmaddr 0x0000000000000000
+           vmsize 0x0000000100000000
+          fileoff 0
+         filesize 0
+          maxprot ---
+         initprot ---
+           nsects 0
+            flags (none)
+        Load command 4
+              cmd LC_SEGMENT_64
+          cmdsize 1032
+          segname __TEXT
+           vmaddr 0x0000000100000000
+           vmsize 0x000000000002c000
+          fileoff 0
+         filesize 0
+          maxprot r-x
+         initprot r-x
+           nsects 12
+            flags (none)
+        Section
+          sectname __text
+           segname __TEXT
+              addr 0x0000000100005ea4
+              size 0x000000000001b924
+            offset 0
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __stubs
+           segname __TEXT
+              addr 0x00000001000217c8
+              size 0x0000000000000924
+            offset 0
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_SYMBOL_STUBS
+        attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+         reserved1 0 (index into indirect symbol table)
+         reserved2 12 (size of stubs)
+        Section
+          sectname __stub_helper
+           segname __TEXT
+              addr 0x00000001000220ec
+              size 0x000000000000090c
+            offset 0
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes PURE_INSTRUCTIONS SOME_INSTRUCTIONS
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __gcc_except_tab
+           segname __TEXT
+              addr 0x00000001000229f8
+              size 0x0000000000001248
+            offset 0
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __const
+           segname __TEXT
+              addr 0x0000000100023c40
+              size 0x0000000000000110
+            offset 0
+             align 2^4 (16)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __cstring
+           segname __TEXT
+              addr 0x0000000100023d50
+              size 0x0000000000001dee
+            offset 0
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_CSTRING_LITERALS
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_methname
+           segname __TEXT
+              addr 0x0000000100025b3e
+              size 0x0000000000004537
+            offset 0
+           
+2020-04-25 08:49:52 +0000    align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_CSTRING_LITERALS
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_classname
+           segname __TEXT
+              addr 0x000000010002a075
+              size 0x000000000000014e
+            offset 0
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_CSTRING_LITERALS
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_methtype
+           segname __TEXT
+              addr 0x000000010002a1c3
+              size 0x0000000000001307
+            offset 0
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_CSTRING_LITERALS
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __ustring
+           segname __TEXT
+              addr 0x000000010002b4ca
+              size 0x00000000000001ca
+            offset 0
+             align 2^1 (2)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __unwind_info
+           segname __TEXT
+              addr 0x000000010002b694
+              size 0x000000000000092c
+            offset 0
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __eh_frame
+           segname __TEXT
+              addr 0x000000010002bfc0
+              size 0x0000000000000034
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Load command 5
+              cmd LC_SEGMENT_64
+          cmdsize 1432
+          segname __DATA
+           vmaddr 0x000000010002c000
+           vmsize 0x000000000000c000
+          fileoff 0
+         filesize 0
+          maxprot rw-
+         initprot rw-
+           nsects 17
+            flags (none)
+        Section
+          sectname __got
+           segname __DATA
+              addr 0x000000010002c000
+              size 0x0000000000000170
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_NON_LAZY_SYMBOL_POINTERS
+        attributes (none)
+         reserved1 195 (index into indirect symbol table)
+         reserved2 0
+        Section
+          sectname __la_symbol_ptr
+           segname __DATA
+              addr 0x000000010002c170
+              size 0x0000000000000618
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_LAZY_SYMBOL_POINTERS
+        attributes (none)
+         reserved1 241 (index into indirect symbol table)
+         reserved2 0
+        Section
+          sectname __const
+           segname __DATA
+              addr 0x000000010002c790
+              size 0x0000000000000248
+            offset 0
+             align 2^4 (16)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __cfstring
+           segname __DATA
+              addr 0x000000010002c9d8
+              size 0x0000000000001a60
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_classlist
+           segname __DATA
+              addr 0x000000010002e438
+              size 0x0000000000000078
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_catlist
+           segname __DATA
+              addr 0x000000010002e4b0
+              s
+2020-04-25 08:49:52 +0000  ize 0x0000000000000010
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_protolist
+           segname __DATA
+              addr 0x000000010002e4c0
+              size 0x0000000000000018
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_imageinfo
+           segname __DATA
+              addr 0x000000010002e4d8
+              size 0x0000000000000008
+            offset 0
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_const
+           segname __DATA
+              addr 0x000000010002e4e0
+              size 0x00000000000063b0
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_selrefs
+           segname __DATA
+              addr 0x0000000100034890
+              size 0x0000000000000fd0
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_LITERAL_POINTERS
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_classrefs
+           segname __DATA
+              addr 0x0000000100035860
+              size 0x00000000000001a0
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_superrefs
+           segname __DATA
+              addr 0x0000000100035a00
+              size 0x0000000000000068
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes NO_DEAD_STRIP
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_ivar
+           segname __DATA
+              addr 0x0000000100035a68
+              size 0x000000000000029c
+            offset 0
+             align 2^2 (4)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __objc_data
+           segname __DATA
+              addr 0x0000000100035d08
+              size 0x00000000000004b0
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __data
+           segname __DATA
+              addr 0x00000001000361b8
+              size 0x0000000000000123
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __common
+           segname __DATA
+              addr 0x00000001000362e0
+              size 0x0000000000000028
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_ZEROFILL
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __bss
+           segname __DATA
+              addr 0x0000000100036308
+              size 0x0000000000000010
+            offset 0
+             align 2^3 (8)
+            reloff 0
+            nreloc 0
+              type S_ZEROFILL
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Load command 6
+              cmd LC_SEGMENT_64
+          cmdsize 72
+          segname __LINKEDIT
+           vmaddr 0x0000000100038000
+2020-04-25 08:49:52 +0000  
+           vmsize 0x0000000000007000
+          fileoff 4096
+         filesize 26641
+          maxprot r--
+         initprot r--
+           nsects 0
+            flags (none)
+        Load command 7
+              cmd LC_SEGMENT_64
+          cmdsize 952
+          segname __DWARF
+           vmaddr 0x000000010003f000
+           vmsize 0x0000000000018000
+          fileoff 32768
+         filesize 97709
+          maxprot rwx
+         initprot rw-
+           nsects 11
+            flags (none)
+        Section
+          sectname __debug_line
+           segname __DWARF
+              addr 0x000000010003f000
+              size 0x0000000000009d0b
+            offset 32768
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __debug_pubnames
+           segname __DWARF
+              addr 0x0000000100048d0b
+              size 0x0000000000002ac6
+            offset 72971
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __debug_ranges
+           segname __DWARF
+              addr 0x000000010004b7d1
+              size 0x0000000000000310
+            offset 83921
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __debug_aranges
+           segname __DWARF
+              addr 0x000000010004bae1
+              size 0x0000000000000290
+            offset 84705
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __debug_info
+           segname __DWARF
+              addr 0x000000010004bd71
+              size 0x00000000000041ed
+            offset 85361
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __debug_abbrev
+           segname __DWARF
+              addr 0x000000010004ff5e
+              size 0x0000000000000105
+            offset 102238
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __debug_str
+           segname __DWARF
+              addr 0x0000000100050063
+              size 0x000000000000256e
+            offset 102499
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __apple_names
+           segname __DWARF
+              addr 0x00000001000525d1
+              size 0x0000000000004764
+            offset 112081
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __apple_namespac
+           segname __DWARF
+              addr 0x0000000100056d35
+              size 0x0000000000000024
+            offset 130357
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __apple_types
+           segname __DWARF
+              addr 0x0000000100056d59
+              size 0x0000000000000030
+            offset 130393
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+        Section
+          sectname __apple_objc
+           segname __DWARF
+              addr 0x0000000100056d89
+              size 0x0000000000000024
+            off
+2020-04-25 08:49:52 +0000  set 130441
+             align 2^0 (1)
+            reloff 0
+            nreloc 0
+              type S_REGULAR
+        attributes (none)
+         reserved1 0
+         reserved2 0
+    
+    Stderr:
+    
+2020-04-25 08:49:52 +0000  Creating universal IPA contents for all variants
+  Creating directory /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IDEIPAProcessor.AppThinning.\~\~\~gojAXz/universal
+  Copying IA782.app output payload directory
+2020-04-25 08:49:52 +0000  /Library/Ruby/Gems/2.3.0/gems/CFPropertyList-3.0.0/lib/cfpropertylist/rbCFPropertyList.rb:378: warning: File.exists? is a deprecated name, use File.exist? instead
+2020-04-25 08:49:52 +0000    Copying .dSYM files to /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IDEIPAProcessor.AppThinning.\~\~\~gojAXz/universal/dSYMs
+  Copying .symbols files to /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IDEIPAProcessor.AppThinning.\~\~\~gojAXz/universal/Symbols
+2020-04-25 08:49:52 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 0
+2020-04-25 08:49:52 +0000  ipatool JSON: {
+    alerts =     (
+                {
+            code = 3309;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 3309;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 3309;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+        "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/Assets.car"
+    );
+    universalIPA =     {
+        path = "/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/IDEIPAProcessor.AppThinning.~~~gojAXz/universal";
+    };
+}
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionSymbolsStep
+2020-04-25 08:49:52 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionAppThinningStep
+2020-04-25 08:49:52 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionArchThinningStep
+2020-04-25 08:49:52 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app/IA782' '-verify_arch' 'arm64e'
+2020-04-25 08:49:52 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-04-25 08:49:52 +0000  Skipping architecture thinning for item "IA782" because arch "arm64e" wasn't found
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionODRStep
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-04-25 08:49:52 +0000  Running /usr/bin/xattr '-crs' '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app'
+2020-04-25 08:49:52 +0000  /usr/bin/xattr exited with 0
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionCodesignStep
+2020-04-25 08:49:52 +0000  Entitlements for <IDEDistributionItem: 0x7fc28863e320 'com20200421oftool' '<DVTFilePath:0x7fc29f11f890:'/Users/tombp/Library/Developer/Xcode/Archives/2020-04-25/IA782 2020-4-25, 4.48 PM.xcarchive/Products/Applications/IA782.app'>'>: {
+    "application-identifier" = "UH36P57T5F.com20200421oftool";
+    "com.apple.developer.team-identifier" = UH36P57T5F;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "UH36P57T5F.com20200421oftool"
+    );
+}
+2020-04-25 08:49:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc28863e320 'com20200421oftool' '<DVTFilePath:0x7fc29f11f890:'/Users/tombp/Library/Developer/Xcode/Archives/2020-04-25/IA782 2020-4-25, 4.48 PM.xcarchive/Products/Applications/IA782.app'>'> to: /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/entitlements~~~MhI8W5
+2020-04-25 08:49:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '290256A3D22A63B761CDCA5AEC2D2D454F18FF68' '--entitlements' '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/entitlements~~~MhI8W5' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app'
+2020-04-25 08:49:52 +0000  /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root/Payload/IA782.app: signed app bundle with Mach-O thin (arm64) [com20200421oftool]
+2020-04-25 08:49:52 +0000  /usr/bin/codesign exited with 0
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-04-25 08:49:52 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-25 08:49:52 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-04-25 08:49:52 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root' '/var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Packages/IA782.ipa'
+2020-04-25 08:49:53 +0000  >>> Copying /var/folders/5z/l4t30szs1714ypk83rx3h_qw0000gn/T/XcodeDistPipeline.~~~FInxfY/Root 
+2020-04-25 08:49:53 +0000  copying file ./Payload/IA782.app/_CodeSignature/CodeResources ... 
+2020-04-25 08:49:53 +0000  11631 bytes for ./Payload/IA782.app/_CodeSignature/CodeResources
+copying file ./Payload/IA782.app/400hz.wav ... 
+2020-04-25 08:49:53 +0000  44144 bytes for ./Payload/IA782.app/400hz.wav
+copying file ./Payload/IA782.app/IA782 ... 
+2020-04-25 08:49:53 +0000  275872 bytes for ./Payload/IA782.app/IA782
+copying file ./Payload/IA782.app/icon-29.png ... 
+2020-04-25 08:49:53 +0000  1076 bytes for ./Payload/IA782.app/icon-29.png
+copying file ./Payload/IA782.app/icon-76@2x.png ... 
+2020-04-25 08:49:53 +0000  5099 bytes for ./Payload/IA782.app/icon-76@2x.png
+2020-04-25 08:49:53 +0000  copying file ./Payload/IA782.app/icon-40@2x.png ... 
+2742 bytes for ./Payload/IA782.app/icon-40@2x.png
+2020-04-25 08:49:53 +0000  copying file ./Payload/IA782.app/icon-40@3x.png ... 
+3995 bytes for ./Payload/IA782.app/icon-40@3x.png
+2020-04-25 08:49:53 +0000  copying file ./Payload/IA782.app/icon-50@2x.png ... 
+2020-04-25 08:49:53 +0000  3401 bytes for ./Payload/IA782.app/icon-50@2x.png
+copying file ./Payload/IA782.app/icon-83.5@2x.png ... 
+2020-04-25 08:49:53 +0000  5587 bytes for ./Payload/IA782.app/icon-83.5@2x.png
+copying file ./Payload/IA782.app/icon-60@3x.png ... 
+2020-04-25 08:49:53 +0000  6042 bytes for ./Payload/IA782.app/icon-60@3x.png
+copying file ./Payload/IA782.app/icon-29@2x.png ... 
+2020-04-25 08:49:53 +0000  1910 bytes for ./Payload/IA782.app/icon-29@2x.png
+copying file ./Payload/IA782.app/AppIcon60x60@2x.png ... 
+2020-04-25 08:49:53 +0000  5209 bytes for ./Payload/IA782.app/AppIcon60x60@2x.png
+copying file ./Payload/IA782.app/icon-20-ipad.png ... 
+2020-04-25 08:49:53 +0000  1062 bytes for ./Payload/IA782.app/icon-20-ipad.png
+copying file ./Payload/IA782.app/icon-76.png ... 
+2020-04-25 08:49:53 +0000  2700 bytes for ./Payload/IA782.app/icon-76.png
+copying file ./Payload/IA782.app/01_10hz.wav ... 
+2020-04-25 08:49:53 +0000  533716 bytes for ./Payload/IA782.app/01_10hz.wav
+copying file ./Payload/IA782.app/icon 1024_1024.png ... 
+2020-04-25 08:49:53 +0000  55049 bytes for ./Payload/IA782.app/icon 1024_1024.png
+copying file ./Payload/IA782.app/icon-72.png ... 
+2020-04-25 08:49:53 +0000  2479 bytes for ./Payload/IA782.app/icon-72.png
+copying file ./Payload/IA782.app/Base.lproj/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib ... 
+2020-04-25 08:49:53 +0000  2449 bytes for ./Payload/IA782.app/Base.lproj/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib
+copying file ./Payload/IA782.app/Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib ... 
+2020-04-25 08:49:53 +0000  7881 bytes for ./Payload/IA782.app/Base.lproj/Main.storyboardc/9pv-A4-QxB-view-tsR-hK-woN.nib
+copying file ./Payload/IA782.app/Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib ... 
+2020-04-25 08:49:53 +0000  12079 bytes for ./Payload/IA782.app/Base.lproj/Main.storyboardc/8rJ-Kc-sve-view-QS5-Rx-YEW.nib
+copying file ./Payload/IA782.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2020-04-25 08:49:53 +0000  264 bytes for ./Payload/IA782.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-04-25 08:49:53 +0000  1792 bytes for ./Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+832 bytes for ./Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-04-25 08:49:53 +0000  258 bytes for ./Payload/IA782.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/IA782.app/icon-72@2x.png ... 
+2020-04-25 08:49:53 +0000  4817 bytes for ./Payload/IA782.app/icon-72@2x.png
+copying file ./Payload/IA782.app/icon-29@3x.png ... 
+2020-04-25 08:49:53 +0000  2988 bytes for ./Payload/IA782.app/icon-29@3x.png
+copying file ./Payload/IA782.app/icon-60@2x.png ... 
+2020-04-25 08:49:53 +0000  3995 bytes for ./Payload/IA782.app/icon-60@2x.png
+copying file ./Payload/IA782.app/icon-29@2x-ipad.png ... 
+1910 bytes for ./Payload/IA782.app/icon-29@2x-ipad.png
+2020-04-25 08:49:53 +0000  copying file ./Payload/IA782.app/icon-20@3x.png ... 
+1979 bytes for ./Payload/IA782.app/icon-20@3x.png
+copying file ./Payload/IA782.app/icon-57.png ... 
+2020-04-25 08:49:53 +0000  1884 bytes for ./Payload/IA782.app/icon-57.png
+copying file ./Payload/IA782.app/icon-20@2x-ipad.png ... 
+2020-04-25 08:49:53 +0000  1407 bytes for ./Payload/IA782.app/icon-20@2x-ipad.png
+copying file ./Payload/IA782.app/Assets.car ... 
+2020-04-25 08:49:53 +0000  178760 bytes for ./Payload/IA782.app/Assets.car
+copying file ./Payload/IA782.app/AppIcon76x76@2x~ipad.png ... 
+2020-04-25 08:49:53 +0000  6908 bytes for ./Payload/IA782.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/IA782.app/icon-40.png ... 
+2020-04-25 08:49:53 +0000  1407 bytes for ./Payload/IA782.app/icon-40.png
+copying file ./Payload/IA782.app/icon-50.png ... 
+2020-04-25 08:49:53 +0000  1769 bytes for ./Payload/IA782.app/icon-50.png
+copying file ./Payload/IA782.app/icon-20@2x.png ... 
+1407 bytes for ./Payload/IA782.app/icon-20@2x.png
+2020-04-25 08:49:53 +0000  copying file ./Payload/IA782.app/1.m4a ... 
+2020-04-25 08:49:53 +0000  22873 bytes for ./Payload/IA782.app/1.m4a
+copying file ./Payload/IA782.app/sea.wav ... 
+2020-04-25 08:49:53 +0000  92672 bytes for ./Payload/IA782.app/sea.wav
+copying file ./Payload/IA782.app/iphone.wav ... 
+2020-04-25 08:49:53 +0000  320044 bytes for ./Payload/IA782.app/iphone.wav
+copying file ./Payload/IA782.app/opto_logo.png ... 
+2020-04-25 08:49:53 +0000  1062 bytes for ./Payload/IA782.app/opto_logo.png
+copying file ./Payload/IA782.app/2.m4a ... 
+2020-04-25 08:49:53 +0000  20930 bytes for ./Payload/IA782.app/2.m4a
+copying file ./Payload/IA782.app/embedded.mobileprovision ... 
+2020-04-25 08:49:53 +0000  11547 bytes for ./Payload/IA782.app/embedded.mobileprovision
+copying file ./Payload/IA782.app/icon-57@2x.png ... 
+2020-04-25 08:49:53 +0000  3832 bytes for ./Payload/IA782.app/icon-57@2x.png
+copying file ./Payload/IA782.app/icon-29-ipad.png ... 
+2020-04-25 08:49:53 +0000  1076 bytes for ./Payload/IA782.app/icon-29-ipad.png
+copying file ./Payload/IA782.app/Info.plist ... 
+2956 bytes for ./Payload/IA782.app/Info.plist
+2020-04-25 08:49:53 +0000  copying file ./Payload/IA782.app/knock.wav ... 
+2020-04-25 08:49:53 +0000  92672 bytes for ./Payload/IA782.app/knock.wav
+copying file ./Payload/IA782.app/PkgInfo ... 
+2020-04-25 08:49:53 +0000  8 bytes for ./Payload/IA782.app/PkgInfo
+2020-04-25 08:49:53 +0000  /usr/bin/ditto exited with 0
+2020-04-25 08:49:53 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-04-25 08:49:53 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-04-25 08:49:53 +0000  Processing step: IDEDistributionCreateManifestStep
